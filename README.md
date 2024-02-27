@@ -22,20 +22,12 @@ I am also an avid game jam participant and love to create prototypes of my favor
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+## Quick Notes 
 - 🧠 I am currently learning more about react through the creation of CRM application!  
   
 
 - ⚡ Favorite Quote: The only way forward is through.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -68,10 +60,6 @@ I am also an avid game jam participant and love to create prototypes of my favor
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasheal&hide_border=true&layout=compact" align="left" style="width: 100%" />
