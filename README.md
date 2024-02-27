@@ -75,6 +75,4 @@ I am also an avid game jam developer and love to create prototypes of my favorit
 <br/>  
 
 
-## Tool Credit
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
