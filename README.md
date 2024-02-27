@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Thomas Heal!  
-  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=thomasheal&&style=flat-square)    
 
 <a href="https://github.com/thomasheal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,18 +69,7 @@ I am also an avid game jam developer and love to create prototypes of my favorit
 </td></tr></table>  
 
 <br/>  
-
   
-
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=thomasheal&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
