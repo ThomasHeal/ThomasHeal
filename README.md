@@ -16,7 +16,7 @@ I am a software developer looking to expand the growing field of technology and 
 
 I specialize in designing efficient backend services that take the code out of the end users hand and replaces it with an appealing front end service that puts them in control. I enjoy creating meaningful experiences that provide a useful and functional tool for day to day tasks.
 
-I am also an avid game jam participant and love to create prototypes of my favorite genres, hoping to one day be a master of the three day sprint!  
+I am also an avid game jam developer and love to create prototypes of my favorite genres, hoping to one day be a master of the three day sprint!  
   
 
 <br/>  
