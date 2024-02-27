@@ -60,7 +60,7 @@ I am also an avid game jam participant and love to create prototypes of my favor
 
 
 ## Github Stats  
-</td><td valign="top" width="50%">
+</td><td valign="top" width="25%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasheal&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
