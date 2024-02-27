@@ -58,11 +58,10 @@ I am also an avid game jam participant and love to create prototypes of my favor
 
 <br/>  
 
-
 ## Github Stats  
-</td><td valign="top" width="5%">
+</td><td valign="top" width="30%"> <!-- Adjusted width here, e.g., 30% -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasheal&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasheal&hide_border=true&layout=compact" align="left" style="max-width: 100%; height: auto;" /> <!-- Modified style attribute to maintain aspect ratio -->
 
 </td></tr></table>  
 
