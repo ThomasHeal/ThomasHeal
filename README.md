@@ -23,7 +23,7 @@ I am also an avid game jam developer and love to create prototypes of my favorit
 
 
 ## Quick Notes 
-- 🧠 I am currently learning more about react through the creation of CRM application!  
+- 🧠 I am currently learning more about react through the creation of a CRM application!  
   
 
 - ⚡ Favorite Quote: The only way forward is through.  
