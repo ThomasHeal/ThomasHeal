@@ -22,7 +22,7 @@ I am also an avid game jam participant and love to create prototypes of my favor
 <br/>  
 
 
-## Quick Notes
+## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🧠 I am currently learning more about react through the creation of CRM application!  
@@ -33,9 +33,6 @@ I am also an avid game jam participant and love to create prototypes of my favor
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
